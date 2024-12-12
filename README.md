@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Melissa Argyle
 
 ## About Me
-- 👀 I’m interested in turning coffee into code and world domination through open-source.
+- 👀 I’m interested in turning coffee into code. When I'm not puzzling over code, you'll find me channeling my inner Picasso with a paintbrush in hand.
 - 🌱 I’m currently learning how to make my code bug-free. It's a work in progress.
 - 📫 How to reach me: Carrier pigeon is preferred, but email works too: argylemelis@gmail.com
 - 😄 Pronouns: She/Her
